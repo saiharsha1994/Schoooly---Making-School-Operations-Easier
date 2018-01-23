@@ -1,0 +1,500 @@
+[12-Mar-2016 12:35:57 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Parent_Login_api.php on line 22
+[12-Mar-2016 14:13:19 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/alamaana/public_html/Hikmah/application/models/Login_model.php on line 26
+[12-Mar-2016 14:14:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Hikmah/application/models/Login_model.php on line 65
+[12-Mar-2016 14:18:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '"' in /home/alamaana/public_html/Hikmah/application/models/Login_model.php on line 25
+[12-Mar-2016 15:08:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Hikmah/application/models/Login_model.php on line 27
+[14-Mar-2016 10:09:18 Etc/GMT] PHP Fatal error:  Call to undefined method Upload::response() in /home/alamaana/public_html/Hikmah/application/controllers/Upload.php on line 34
+[14-Mar-2016 10:13:55 Etc/GMT] PHP Fatal error:  Call to undefined method Upload::response() in /home/alamaana/public_html/Hikmah/application/controllers/Upload.php on line 34
+[14-Mar-2016 10:17:19 Etc/GMT] PHP Fatal error:  Call to undefined method Upload::response() in /home/alamaana/public_html/Hikmah/application/controllers/Upload.php on line 34
+[14-Mar-2016 10:17:36 Etc/GMT] PHP Fatal error:  Call to undefined method Upload::response() in /home/alamaana/public_html/Hikmah/application/controllers/Upload.php on line 34
+[14-Mar-2016 10:20:11 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/Upload.php on line 3
+[14-Mar-2016 10:20:43 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[14-Mar-2016 10:20:50 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[14-Mar-2016 10:20:56 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[14-Mar-2016 10:23:06 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[14-Mar-2016 10:23:20 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[14-Mar-2016 12:07:48 Etc/GMT] PHP Notice:  Use of undefined constant SITE_URL - assumed 'SITE_URL' in /home/alamaana/public_html/Hikmah/fileUpload.php on line 35
+[14-Mar-2016 12:07:48 Etc/GMT] PHP Fatal error:  Call to undefined function toJson() in /home/alamaana/public_html/Hikmah/fileUpload.php on line 38
+[14-Mar-2016 12:15:57 Etc/GMT] PHP Notice:  Use of undefined constant base_url - assumed 'base_url' in /home/alamaana/public_html/Hikmah/fileUpload.php on line 35
+[14-Mar-2016 12:15:57 Etc/GMT] PHP Fatal error:  Call to undefined function toJson() in /home/alamaana/public_html/Hikmah/fileUpload.php on line 38
+[14-Mar-2016 12:16:58 Etc/GMT] PHP Notice:  Use of undefined constant base_url - assumed 'base_url' in /home/alamaana/public_html/Hikmah/fileUpload.php on line 35
+[14-Mar-2016 12:16:58 Etc/GMT] PHP Fatal error:  Call to undefined function toJson() in /home/alamaana/public_html/Hikmah/fileUpload.php on line 38
+[14-Mar-2016 12:17:57 Etc/GMT] PHP Notice:  Use of undefined constant BASEPATH - assumed 'BASEPATH' in /home/alamaana/public_html/Hikmah/fileUpload.php on line 35
+[14-Mar-2016 12:17:57 Etc/GMT] PHP Fatal error:  Call to undefined function toJson() in /home/alamaana/public_html/Hikmah/fileUpload.php on line 38
+[14-Mar-2016 12:18:14 Etc/GMT] PHP Notice:  Use of undefined constant BASEPATH - assumed 'BASEPATH' in /home/alamaana/public_html/Hikmah/fileUpload.php on line 35
+[14-Mar-2016 12:18:14 Etc/GMT] PHP Fatal error:  Call to undefined function toJson() in /home/alamaana/public_html/Hikmah/fileUpload.php on line 38
+[14-Mar-2016 12:18:45 Etc/GMT] PHP Notice:  Undefined index: image in /home/alamaana/public_html/Hikmah/fileUpload.php on line 31
+[14-Mar-2016 12:18:45 Etc/GMT] PHP Notice:  Undefined variable: target_path in /home/alamaana/public_html/Hikmah/fileUpload.php on line 31
+[14-Mar-2016 12:18:45 Etc/GMT] PHP Fatal error:  Call to undefined function toJson() in /home/alamaana/public_html/Hikmah/fileUpload.php on line 44
+[14-Mar-2016 12:18:47 Etc/GMT] PHP Notice:  Undefined index: image in /home/alamaana/public_html/Hikmah/fileUpload.php on line 31
+[14-Mar-2016 12:18:47 Etc/GMT] PHP Notice:  Undefined variable: target_path in /home/alamaana/public_html/Hikmah/fileUpload.php on line 31
+[14-Mar-2016 12:18:47 Etc/GMT] PHP Fatal error:  Call to undefined function toJson() in /home/alamaana/public_html/Hikmah/fileUpload.php on line 44
+[14-Mar-2016 12:20:01 Etc/GMT] PHP Fatal error:  Call to undefined function toJson() in /home/alamaana/public_html/Hikmah/fileUpload.php on line 38
+[14-Mar-2016 12:21:06 Etc/GMT] PHP Warning:  move_uploaded_file(/Uploads/Image/IMG-20160314-WA0009.jpg): failed to open stream: No such file or directory in /home/alamaana/public_html/Hikmah/fileUpload.php on line 31
+[14-Mar-2016 12:21:06 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3vGlGt' to '/Uploads/Image/IMG-20160314-WA0009.jpg' in /home/alamaana/public_html/Hikmah/fileUpload.php on line 31
+[14-Mar-2016 12:21:06 Etc/GMT] PHP Fatal error:  Call to undefined function toJson() in /home/alamaana/public_html/Hikmah/fileUpload.php on line 44
+[14-Mar-2016 12:21:33 Etc/GMT] PHP Notice:  Undefined index: image in /home/alamaana/public_html/Hikmah/fileUpload.php on line 31
+[14-Mar-2016 12:21:33 Etc/GMT] PHP Notice:  Undefined variable: target_path in /home/alamaana/public_html/Hikmah/fileUpload.php on line 31
+[14-Mar-2016 12:21:33 Etc/GMT] PHP Fatal error:  Call to undefined function toJson() in /home/alamaana/public_html/Hikmah/fileUpload.php on line 44
+[15-Mar-2016 02:06:52 Etc/GMT] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/alamaana/public_html/Hikmah/application/models/Login_model.php on line 72
+[15-Mar-2016 02:09:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Hikmah/application/models/Login_model.php on line 73
+[18-Mar-2016 10:42:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/alamaana/public_html/Hikmah/application/models/Attendance_model.php on line 54
+[18-Mar-2016 10:46:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/alamaana/public_html/Hikmah/application/models/Attendance_model.php on line 54
+[18-Mar-2016 10:48:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '$qu' (T_VARIABLE) in /home/alamaana/public_html/Hikmah/application/models/Attendance_model.php on line 54
+[19-Mar-2016 06:32:29 Etc/GMT] PHP Fatal error:  Call to undefined function toInArray() in /home/alamaana/public_html/Hikmah/application/models/Attendance_model.php on line 44
+[19-Mar-2016 06:34:51 Etc/GMT] PHP Fatal error:  Call to undefined function toInArray() in /home/alamaana/public_html/Hikmah/application/models/Attendance_model.php on line 44
+[19-Mar-2016 06:34:53 Etc/GMT] PHP Fatal error:  Call to undefined function toInArray() in /home/alamaana/public_html/Hikmah/application/models/Attendance_model.php on line 44
+[19-Mar-2016 07:24:11 Etc/GMT] PHP Warning:  move_uploaded_file(/Uploads/Image/chkbx.png): failed to open stream: No such file or directory in /home/alamaana/public_html/Hikmah/fileUpload.php on line 31
+[19-Mar-2016 07:24:11 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpw56h6q' to '/Uploads/Image/chkbx.png' in /home/alamaana/public_html/Hikmah/fileUpload.php on line 31
+[19-Mar-2016 07:24:11 Etc/GMT] PHP Fatal error:  Call to undefined function toJson() in /home/alamaana/public_html/Hikmah/fileUpload.php on line 44
+[19-Mar-2016 07:27:03 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[19-Mar-2016 07:35:03 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[19-Mar-2016 07:38:44 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[19-Mar-2016 07:40:21 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[19-Mar-2016 07:46:19 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[19-Mar-2016 07:46:49 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[19-Mar-2016 09:32:43 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[19-Mar-2016 10:15:22 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[19-Mar-2016 10:18:04 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[19-Mar-2016 10:19:22 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[19-Mar-2016 10:19:41 Etc/GMT] PHP Fatal error:  Class 'REST_Controller' not found in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 3
+[20-Mar-2016 15:00:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Curriculum_api.php on line 69
+[20-Mar-2016 15:02:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Curriculum_api.php on line 69
+[20-Mar-2016 15:03:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Curriculum_api.php on line 69
+[20-Mar-2016 15:06:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Curriculum_api.php on line 69
+[20-Mar-2016 15:09:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Curriculum_api.php on line 70
+[21-Mar-2016 15:57:11 Etc/GMT] PHP Fatal error:  Call to a member function addRecepient() on a non-object in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Events_api.php on line 40
+[25-Mar-2016 03:05:29 Etc/GMT] PHP Fatal error:  Call to undefined method Chatting_model::get() in /home/alamaana/public_html/Hikmah/application/models/Chatting_model.php on line 49
+[25-Mar-2016 03:09:02 Etc/GMT] PHP Fatal error:  Call to undefined method Chatting_model::get() in /home/alamaana/public_html/Hikmah/application/models/Chatting_model.php on line 49
+[25-Mar-2016 03:14:53 Etc/GMT] PHP Fatal error:  Call to undefined method Chatting_model::get() in /home/alamaana/public_html/Hikmah/application/models/Chatting_model.php on line 64
+[30-Mar-2016 16:32:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$Type' (T_VARIABLE) in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 30
+[30-Mar-2016 16:35:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$Type' (T_VARIABLE) in /home/alamaana/public_html/Hikmah/application/controllers/web_services/Upload.php on line 30
+[12-Apr-2016 01:06:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Event_model::deleteEvent() in /home/alamaana/public_html/Tifly_Demo/application/controllers/web_services/Events_api.php on line 63
+[12-Apr-2016 01:06:48 Asia/Kolkata] PHP Fatal error:  Call to undefined method Event_model::deleteEvent() in /home/alamaana/public_html/Tifly_Demo/application/controllers/web_services/Events_api.php on line 63
+[12-Apr-2016 01:07:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method Event_model::deleteEvent() in /home/alamaana/public_html/Tifly_Demo/application/controllers/web_services/Events_api.php on line 63
+[12-Apr-2016 01:08:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Event_model::deleteEvent() in /home/alamaana/public_html/Tifly_Demo/application/controllers/web_services/Events_api.php on line 63
+[12-Apr-2016 01:10:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method Event_model::deleteEvent() in /home/alamaana/public_html/Tifly_Demo/application/controllers/web_services/Events_api.php on line 63
+[12-Apr-2016 01:47:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/alamaana/public_html/Tifly_Demo/application/controllers/web_services/Livefeed_api.php on line 50
+[12-Apr-2016 01:48:36 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Livefeed_api::livefeedDelete_get() in /home/alamaana/public_html/Tifly_Demo/application/controllers/web_services/Livefeed_api.php on line 51
+[21-May-2016 14:24:09 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting function (T_FUNCTION) in /home/alamaana/public_html/UIISR/application/controllers/web_services/Syllabus_api.php on line 49
+[21-May-2016 14:24:10 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting function (T_FUNCTION) in /home/alamaana/public_html/UIISR/application/controllers/web_services/Syllabus_api.php on line 49
+[21-May-2016 14:24:25 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting function (T_FUNCTION) in /home/alamaana/public_html/UIISR/application/controllers/web_services/Syllabus_api.php on line 49
+[21-May-2016 14:25:45 Asia/Riyadh] PHP Fatal error:  Call to undefined method Syllabus_model::getbookUrl() in /home/alamaana/public_html/UIISR/application/controllers/web_services/Syllabus_api.php on line 58
+[21-May-2016 14:26:53 Asia/Riyadh] PHP Fatal error:  Call to undefined method Syllabus_model::getbookUrl() in /home/alamaana/public_html/UIISR/application/controllers/web_services/Syllabus_api.php on line 58
+[21-May-2016 14:27:42 Asia/Riyadh] PHP Fatal error:  Call to undefined method Syllabus_model::getbookUrl() in /home/alamaana/public_html/UIISR/application/controllers/web_services/Syllabus_api.php on line 58
+[21-May-2016 14:28:17 Asia/Riyadh] PHP Fatal error:  Call to undefined method Syllabus_model::getbookUrl() in /home/alamaana/public_html/UIISR/application/controllers/web_services/Syllabus_api.php on line 58
+[23-May-2016 12:49:02 Asia/Riyadh] PHP Fatal error:  Call to undefined method DailyUpdate_model::InsertUpdates() in /home/alamaana/public_html/UIISR/application/controllers/web_services/DailyUpdate_api.php on line 34
+[23-May-2016 12:54:38 Asia/Riyadh] PHP Fatal error:  Call to undefined method DailyUpdate_model::InsertUpdates() in /home/alamaana/public_html/UIISR/application/controllers/web_services/DailyUpdate_api.php on line 34
+[23-May-2016 12:55:02 Asia/Riyadh] PHP Fatal error:  Call to undefined method DailyUpdate_model::InsertUpdates() in /home/alamaana/public_html/UIISR/application/controllers/web_services/DailyUpdate_api.php on line 34
+[24-May-2016 09:32:10 Asia/Riyadh] PHP Fatal error:  Call to a member function addRecepient() on a non-object in /home/alamaana/public_html/UIISR/application/controllers/web_services/DailyUpdate_api.php on line 40
+[24-May-2016 09:32:38 Asia/Riyadh] PHP Fatal error:  Call to a member function addRecepient() on a non-object in /home/alamaana/public_html/UIISR/application/controllers/web_services/DailyUpdate_api.php on line 40
+[29-May-2016 16:02:15 Etc/GMT] PHP Notice:  Constant TABLE_EVENT already defined in /home/alamaana/public_html/UIISR/application/config/constants.php on line 119
+[29-May-2016 16:02:55 Etc/GMT] PHP Notice:  Constant TABLE_EVENT already defined in /home/alamaana/public_html/UIISR/application/config/constants.php on line 119
+[18-Jun-2016 10:13:18 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/alamaana/public_html/UIISR/application/models/Notification_model.php on line 15
+[19-Jun-2016 06:38:54 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/alamaana/public_html/UIISR/application/models/Notification_model.php on line 15
+[21-Jun-2016 07:35:40 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/UIISR/application/config/constants.php on line 126
+[21-Jun-2016 07:56:31 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/alamaana/public_html/UIISR/application/models/Notification_model.php on line 15
+[21-Jun-2016 07:56:36 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/alamaana/public_html/UIISR/application/models/Notification_model.php on line 15
+[21-Jun-2016 07:57:59 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/alamaana/public_html/UIISR/application/models/Notification_model.php on line 15
+[28-Oct-2016 06:19:51 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alamaana/public_html/Tifly_Pro/application/controllers/web_services/SendMessageFromDriver_api.php on line 28
+[28-Oct-2016 06:50:01 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alamaana/public_html/Tifly_Pro/application/controllers/web_services/SendMessageFromDriver_api.php on line 28
+[28-Oct-2016 06:50:31 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alamaana/public_html/Tifly_Pro/application/controllers/web_services/SendMessageFromDriver_api.php on line 28
+[28-Oct-2016 06:52:02 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alamaana/public_html/Tifly_Pro/application/controllers/web_services/SendMessageFromDriver_api.php on line 28
+[28-Oct-2016 06:52:28 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alamaana/public_html/Tifly_Pro/application/controllers/web_services/SendMessageFromDriver_api.php on line 28
+[28-Oct-2016 06:52:40 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alamaana/public_html/Tifly_Pro/application/controllers/web_services/SendMessageFromDriver_api.php on line 28
+[17-Nov-2016 18:50:11 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/alamaana/public_html/Tifly_Pro/application/models/Getroutedetails_model.php on line 216
+[17-Nov-2016 18:50:39 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/alamaana/public_html/Tifly_Pro/application/models/Getroutedetails_model.php on line 215
+[17-Nov-2016 18:50:41 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/alamaana/public_html/Tifly_Pro/application/models/Getroutedetails_model.php on line 215
+[19-Dec-2016 05:42:42 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/alamaana/public_html/Tifly_Pro/application/models/Login_model.php on line 27
+[19-Dec-2016 05:42:48 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/alamaana/public_html/Tifly_Pro/application/models/Login_model.php on line 27
+[19-Dec-2016 05:43:44 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/alamaana/public_html/Tifly_Pro/application/models/Login_model.php on line 27
+[05-Jan-2017 12:52:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Coordinates_model.php on line 38
+[05-Jan-2017 12:53:47 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/alamaana/public_html/Schoooly/application/models/Coordinates_model.php on line 35
+[07-Jan-2017 10:59:19 Etc/GMT] PHP Fatal error:  Call to a member function SUM() on a non-object in /home/alamaana/public_html/Schoooly/application/models/Buslist_model.php on line 29
+[07-Jan-2017 11:04:00 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/alamaana/public_html/Schoooly/application/models/Buslist_model.php on line 35
+[02-Feb-2017 02:00:52 Etc/GMT] PHP Parse error:  syntax error, unexpected ''amount_spend'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/alamaana/public_html/Schoooly/application/controllers/web_services/PettyCash_api.php on line 65
+[02-Feb-2017 02:09:25 Etc/GMT] PHP Fatal error:  Call to undefined method Pettycash_model::deletePettyCashDetails() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/PettyCash_api.php on line 87
+[04-Feb-2017 02:45:24 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Attendance_api.php on line 401
+[04-Feb-2017 02:48:06 Etc/GMT] PHP Fatal error:  Call to undefined method Attendance_model::get() in /home/alamaana/public_html/Schoooly/application/models/Attendance_model.php on line 295
+[10-Feb-2017 13:51:58 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:52:46 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:52:53 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:53:46 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:53:53 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:53:58 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:54:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:54:05 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:54:15 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:54:35 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:54:42 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:54:59 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:55:00 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:55:13 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:55:18 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:55:28 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:55:44 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:55:48 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:55:58 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:56:39 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:56:49 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:56:59 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:57:09 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:57:19 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[10-Feb-2017 13:57:29 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 64
+[12-Feb-2017 20:20:11 Asia/Riyadh] PHP Fatal error:  Call to undefined function getDistance() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/BusCoordinates_api.php on line 53
+[17-Feb-2017 10:08:50 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ')' in /home/alamaana/public_html/Schoooly/application/controllers/web_services/PettyCash_api.php on line 43
+[17-Feb-2017 10:09:20 Asia/Riyadh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/alamaana/public_html/Schoooly/application/models/Pettycash_model.php on line 17
+[21-Feb-2017 12:39:39 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Parent_model.php on line 43
+[21-Feb-2017 12:39:46 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Parent_model.php on line 43
+[21-Feb-2017 12:40:46 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Parent_model.php on line 45
+[22-Feb-2017 08:03:59 Asia/Riyadh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/alamaana/public_html/Schoooly/application/models/Attendance_model.php on line 344
+[08-Mar-2017 10:39:23 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 52
+[08-Mar-2017 11:04:12 Asia/Riyadh] PHP Fatal error:  Cannot use object of type mysqli as array in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 50
+[08-Mar-2017 11:08:44 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 50
+[08-Mar-2017 11:09:23 Asia/Riyadh] PHP Fatal error:  Cannot redeclare Admin::get_class_section() in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 1577
+[08-Mar-2017 11:09:25 Asia/Riyadh] PHP Fatal error:  Cannot redeclare Admin::get_class_section() in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 1577
+[08-Mar-2017 11:09:26 Asia/Riyadh] PHP Fatal error:  Cannot redeclare Admin::get_class_section() in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 1577
+[08-Mar-2017 11:09:27 Asia/Riyadh] PHP Fatal error:  Cannot redeclare Admin::get_class_section() in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 1577
+[08-Mar-2017 11:23:26 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 50
+[15-Mar-2017 14:55:02 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 1838
+[15-Mar-2017 14:55:54 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ''1'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 1838
+[15-Mar-2017 14:56:34 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 1838
+[16-Mar-2017 11:09:38 Asia/Riyadh] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::where_or() in /home/alamaana/public_html/Schoooly/application/models/Pettycash_model.php on line 15
+[16-Mar-2017 11:10:19 Asia/Riyadh] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::where_or() in /home/alamaana/public_html/Schoooly/application/models/Pettycash_model.php on line 15
+[16-Mar-2017 11:10:20 Asia/Riyadh] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::where_or() in /home/alamaana/public_html/Schoooly/application/models/Pettycash_model.php on line 15
+[16-Mar-2017 11:10:32 Asia/Riyadh] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::where_or() in /home/alamaana/public_html/Schoooly/application/models/Pettycash_model.php on line 15
+[16-Mar-2017 11:10:33 Asia/Riyadh] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::where_or() in /home/alamaana/public_html/Schoooly/application/models/Pettycash_model.php on line 15
+[21-Mar-2017 13:17:43 Asia/Riyadh] PHP Fatal error:  Class 'Settings_model' not found in /home/alamaana/public_html/Schoooly/system/core/Loader.php on line 305
+[24-Mar-2017 14:33:05 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ';' in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Students_api.php on line 92
+[28-Mar-2017 12:52:42 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 771
+[28-Mar-2017 12:52:47 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 771
+[28-Mar-2017 12:53:49 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 771
+[29-Mar-2017 09:26:33 Asia/Riyadh] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/alamaana/public_html/Schoooly/system/database/DB_driver.php on line 1353
+[29-Mar-2017 09:33:06 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32 bytes) in /home/alamaana/public_html/Schoooly/system/database/drivers/mysqli/mysqli_result.php on line 168
+[29-Mar-2017 09:33:16 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1024 bytes) in /home/alamaana/public_html/Schoooly/system/database/drivers/mysqli/mysqli_result.php on line 168
+[29-Mar-2017 09:33:35 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32 bytes) in /home/alamaana/public_html/Schoooly/system/database/drivers/mysqli/mysqli_result.php on line 168
+[29-Mar-2017 09:33:46 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1024 bytes) in /home/alamaana/public_html/Schoooly/system/database/drivers/mysqli/mysqli_result.php on line 168
+[29-Mar-2017 09:34:54 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1024 bytes) in /home/alamaana/public_html/Schoooly/system/database/drivers/mysqli/mysqli_result.php on line 168
+[29-Mar-2017 09:46:22 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 76 bytes) in /home/alamaana/public_html/Schoooly/system/database/drivers/mysqli/mysqli_result.php on line 168
+[29-Mar-2017 09:47:57 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 88 bytes) in /home/alamaana/public_html/Schoooly/system/database/drivers/mysqli/mysqli_result.php on line 168
+[29-Mar-2017 09:50:35 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 83 bytes) in /home/alamaana/public_html/Schoooly/system/database/drivers/mysqli/mysqli_result.php on line 168
+[29-Mar-2017 09:50:43 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32 bytes) in /home/alamaana/public_html/Schoooly/system/database/drivers/mysqli/mysqli_result.php on line 168
+[29-Mar-2017 10:07:09 Asia/Riyadh] PHP Fatal error:  Call to a member function encrypt() on a non-object in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 620
+[06-Apr-2017 08:58:32 Asia/Riyadh] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 115
+[06-Apr-2017 11:59:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 336
+[06-Apr-2017 11:59:15 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 336
+[06-Apr-2017 11:59:15 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 336
+[06-Apr-2017 11:59:15 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 336
+[06-Apr-2017 11:59:15 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 336
+[06-Apr-2017 11:59:30 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 336
+[06-Apr-2017 11:59:30 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 336
+[06-Apr-2017 11:59:30 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 336
+[06-Apr-2017 11:59:30 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 336
+[06-Apr-2017 13:45:30 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$query1' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 71
+[06-Apr-2017 13:45:30 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$query1' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 71
+[06-Apr-2017 13:45:31 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$query1' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 71
+[06-Apr-2017 13:45:31 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$query1' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 71
+[06-Apr-2017 13:45:31 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$query1' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 71
+[06-Apr-2017 13:46:07 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$query1' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 71
+[06-Apr-2017 13:46:07 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$query1' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 71
+[06-Apr-2017 13:46:07 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$query1' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 71
+[06-Apr-2017 13:46:07 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$query1' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 71
+[06-Apr-2017 13:57:04 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ')' in /home/alamaana/public_html/Schoooly/application/models/Student_model.php on line 77
+[07-Apr-2017 09:25:11 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$lat' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Getroutedetails_model.php on line 55
+[07-Apr-2017 09:25:48 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$lat' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Getroutedetails_model.php on line 57
+[07-Apr-2017 09:25:50 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$lat' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Getroutedetails_model.php on line 57
+[07-Apr-2017 09:25:52 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$lat' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Getroutedetails_model.php on line 57
+[07-Apr-2017 09:25:53 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$lat' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Getroutedetails_model.php on line 57
+[07-Apr-2017 09:26:07 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$lat' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Getroutedetails_model.php on line 57
+[07-Apr-2017 09:26:07 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$lat' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Getroutedetails_model.php on line 57
+[07-Apr-2017 09:26:16 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$lat' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Getroutedetails_model.php on line 57
+[07-Apr-2017 09:26:16 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$lat' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Getroutedetails_model.php on line 57
+[07-Apr-2017 09:35:34 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/alamaana/public_html/Schoooly/application/views/backend/admin/modal_student_profile.php on line 55
+[08-Apr-2017 11:45:42 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'background' (T_STRING), expecting ',' or ';' in /home/alamaana/public_html/Schoooly/application/views/backend/admin/modal_student_profile.php on line 1134
+[08-Apr-2017 11:46:12 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'background' (T_STRING), expecting ',' or ';' in /home/alamaana/public_html/Schoooly/application/views/backend/admin/modal_student_profile.php on line 1134
+[08-Apr-2017 11:56:26 Asia/Riyadh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/alamaana/public_html/Schoooly/application/models/Attendance_model.php on line 36
+[08-Apr-2017 15:55:47 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Attendance_api.php on line 200
+[10-Apr-2017 09:07:27 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 3766
+[10-Apr-2017 09:53:20 Asia/Riyadh] PHP Fatal error:  Call to undefined method GCM::clearRecepient() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Students_api.php on line 205
+[10-Apr-2017 10:24:07 Asia/Riyadh] PHP Fatal error:  Call to undefined method GCM::clearRecepient() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Students_api.php on line 205
+[26-Apr-2017 12:21:43 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 4884
+[28-Apr-2017 13:31:24 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '=' in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 304
+[28-Apr-2017 13:31:28 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '=' in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 304
+[28-Apr-2017 13:31:30 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '=' in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 304
+[28-Apr-2017 13:31:31 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '=' in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 304
+[28-Apr-2017 13:36:31 Asia/Riyadh] PHP Fatal error:  Function name must be a string in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 295
+[28-Apr-2017 13:36:54 Asia/Riyadh] PHP Fatal error:  Function name must be a string in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 295
+[28-Apr-2017 13:40:18 Asia/Riyadh] PHP Fatal error:  Function name must be a string in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 295
+[28-Apr-2017 13:41:28 Asia/Riyadh] PHP Fatal error:  Function name must be a string in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 295
+[28-Apr-2017 13:48:07 Asia/Riyadh] PHP Fatal error:  Function name must be a string in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 295
+[28-Apr-2017 13:49:24 Asia/Riyadh] PHP Fatal error:  Function name must be a string in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 295
+[30-Apr-2017 06:34:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[30-Apr-2017 06:35:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[30-Apr-2017 06:36:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[30-Apr-2017 06:37:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[30-Apr-2017 10:15:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[30-Apr-2017 10:16:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[30-Apr-2017 10:17:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[30-Apr-2017 10:18:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[30-Apr-2017 10:19:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[01-May-2017 07:01:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[01-May-2017 07:02:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[01-May-2017 14:24:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[02-May-2017 09:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[03-May-2017 08:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[04-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[04-May-2017 08:22:39 Asia/Riyadh] PHP Fatal error:  Call to undefined method Crud_model::leave_data() in /home/alamaana/public_html/Schoooly/application/controllers/Teacher.php on line 1167
+[05-May-2017 04:30:05 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[06-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[07-May-2017 04:30:16 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[08-May-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[08-May-2017 13:14:28 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/alamaana/public_html/Schoooly/application/models/Attendance_model.php on line 58
+[09-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[09-May-2017 10:22:13 Asia/Riyadh] PHP Fatal error:  Call to undefined method GCM::clearRecepient() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Students_api.php on line 236
+[09-May-2017 10:28:43 Asia/Riyadh] PHP Fatal error:  Call to undefined method GCM::clearRecepient() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Students_api.php on line 236
+[09-May-2017 10:29:20 Asia/Riyadh] PHP Fatal error:  Call to undefined method GCM::clearRecepient() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Students_api.php on line 236
+[09-May-2017 10:33:59 Asia/Riyadh] PHP Fatal error:  Call to undefined method GCM::clearRecepient() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Students_api.php on line 236
+[09-May-2017 11:55:02 Asia/Riyadh] PHP Fatal error:  Call to undefined method GCM::clearRecepient() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Students_api.php on line 236
+[09-May-2017 11:55:53 Asia/Riyadh] PHP Fatal error:  Call to undefined method GCM::clearRecepient() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Students_api.php on line 236
+[09-May-2017 15:33:36 Asia/Riyadh] PHP Fatal error:  Call to undefined method GCM::clearRecepient() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Students_api.php on line 205
+[09-May-2017 15:33:55 Asia/Riyadh] PHP Fatal error:  Call to undefined method GCM::clearRecepient() in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Students_api.php on line 205
+[10-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[11-May-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[12-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[12-May-2017 09:07:13 Asia/Riyadh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/alamaana/public_html/Schoooly/application/models/Login_model.php on line 137
+[13-May-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[13-May-2017 10:20:25 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Event_model.php on line 32
+[13-May-2017 10:20:44 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/models/Event_model.php on line 32
+[14-May-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[15-May-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[16-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[16-May-2017 12:15:46 Asia/Riyadh] PHP Fatal error:  Call to undefined method Crud_model::get_hr_image_url() in /home/alamaana/public_html/Schoooly/application/views/backend/admin/hr_management.php on line 29
+[17-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[18-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[18-May-2017 20:24:08 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:10 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:10 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:11 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:11 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:11 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:11 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:12 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:12 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:12 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:12 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:12 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:12 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:13 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:13 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:13 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:13 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:13 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:13 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:13 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:24:13 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:41:13 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:41:14 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:41:14 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:41:16 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:41:16 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:41:17 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[18-May-2017 20:41:18 Asia/Riyadh] PHP Fatal error:  Cannot access empty property in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 638
+[19-May-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[19-May-2017 09:24:13 Asia/Riyadh] PHP Fatal error:  Call to a member function addRecepient() on a non-object in /home/alamaana/public_html/Schoooly/application/controllers/Teacher.php on line 1207
+[20-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[21-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[22-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[22-May-2017 14:23:58 Asia/Riyadh] PHP Fatal error:  Call to a member function getChildMarksReport() on a non-object in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Marksheet_api.php on line 119
+[23-May-2017 04:30:03 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[23-May-2017 12:17:39 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/alamaana/public_html/Schoooly/application/views/backend/admin/broadcast_message_status.php on line 42
+[24-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[24-May-2017 12:40:57 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$classes' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/views/backend/admin/navigation.php on line 720
+[25-May-2017 04:30:04 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[26-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[27-May-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[28-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[29-May-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[29-May-2017 10:11:26 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:16:23 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:16:50 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:16:56 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:16:57 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:16:57 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:16:58 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:17:35 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:17:52 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:17:52 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:17:55 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:17:55 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:17:55 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:18:00 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:18:13 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:19:38 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:33:36 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 10:38:06 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[29-May-2017 11:07:18 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/models/Gallery_model.php on line 36
+[30-May-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[31-May-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[01-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[01-Jun-2017 14:04:39 Asia/Riyadh] PHP Fatal error:  Can't use method return value in write context in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 4185
+[01-Jun-2017 14:04:43 Asia/Riyadh] PHP Fatal error:  Can't use method return value in write context in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 4185
+[01-Jun-2017 14:04:52 Asia/Riyadh] PHP Fatal error:  Can't use method return value in write context in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 4185
+[01-Jun-2017 14:05:11 Asia/Riyadh] PHP Fatal error:  Can't use method return value in write context in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 4185
+[01-Jun-2017 14:05:14 Asia/Riyadh] PHP Fatal error:  Can't use method return value in write context in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 4185
+[01-Jun-2017 14:05:16 Asia/Riyadh] PHP Fatal error:  Can't use method return value in write context in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 4185
+[01-Jun-2017 14:05:18 Asia/Riyadh] PHP Fatal error:  Can't use method return value in write context in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 4185
+[01-Jun-2017 14:05:21 Asia/Riyadh] PHP Fatal error:  Can't use method return value in write context in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 4185
+[01-Jun-2017 14:05:44 Asia/Riyadh] PHP Fatal error:  Can't use method return value in write context in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 4185
+[01-Jun-2017 14:22:23 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '>' in /home/alamaana/public_html/Schoooly/application/views/backend/admin/bus_attndnc_view_with_table.php on line 233
+[01-Jun-2017 14:22:42 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '>' in /home/alamaana/public_html/Schoooly/application/views/backend/admin/bus_attndnc_view_with_table.php on line 233
+[01-Jun-2017 14:52:01 Asia/Riyadh] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alamaana/public_html/Schoooly/application/views/backend/admin/bus_attndnc_view_with_table.php on line 207
+[01-Jun-2017 18:49:06 Asia/Riyadh] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alamaana/public_html/Schoooly/application/views/backend/admin/bus_attndnc_view_with_table.php on line 186
+[01-Jun-2017 18:53:45 Asia/Riyadh] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/alamaana/public_html/Schoooly/application/views/backend/admin/bus_attndnc_view_with_table.php on line 186
+[02-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[03-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[04-Jun-2017 04:15:13 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 3591
+[04-Jun-2017 04:18:55 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 5634
+[04-Jun-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[05-Jun-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[05-Jun-2017 04:30:02 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[06-Jun-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[06-Jun-2017 04:30:02 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[07-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[07-Jun-2017 04:30:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[07-Jun-2017 11:11:36 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Settings_api.php on line 4
+[07-Jun-2017 11:12:23 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Settings_api.php on line 15
+[07-Jun-2017 11:13:15 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '{', expecting function (T_FUNCTION) in /home/alamaana/public_html/Schoooly/application/controllers/web_services/Settings_api.php on line 4
+[08-Jun-2017 04:30:03 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[08-Jun-2017 04:30:03 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[09-Jun-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[09-Jun-2017 04:30:02 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[10-Jun-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[10-Jun-2017 04:30:02 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[11-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[11-Jun-2017 04:30:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[12-Jun-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[12-Jun-2017 04:30:02 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[13-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[13-Jun-2017 04:30:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[14-Jun-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[14-Jun-2017 04:30:02 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[15-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[15-Jun-2017 04:30:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[16-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[16-Jun-2017 04:30:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[17-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[17-Jun-2017 04:30:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[18-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[18-Jun-2017 04:30:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[19-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[19-Jun-2017 04:30:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[19-Jun-2017 13:27:41 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/alamaana/public_html/Schoooly/application/views/backend/admin/message_new.php on line 55
+[19-Jun-2017 13:55:22 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 5392
+[19-Jun-2017 13:57:36 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 3668
+[19-Jun-2017 13:57:37 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 5392
+[20-Jun-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[20-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[20-Jun-2017 04:30:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 738
+[21-Jun-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[21-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[21-Jun-2017 10:35:47 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/Schoooly/application/views/backend/parent/teacher.php on line 51
+[21-Jun-2017 11:33:15 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/alamaana/public_html/Schoooly/application/controllers/Parents.php on line 1087
+[21-Jun-2017 12:23:39 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/views/backend/teacher/teacher.php on line 25
+[21-Jun-2017 12:23:41 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/views/backend/teacher/teacher.php on line 25
+[21-Jun-2017 12:23:41 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/views/backend/teacher/teacher.php on line 25
+[21-Jun-2017 12:24:34 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/views/backend/teacher/teacher.php on line 25
+[21-Jun-2017 12:24:41 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/views/backend/teacher/teacher.php on line 25
+[21-Jun-2017 13:06:28 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/alamaana/public_html/Schoooly/application/controllers/Teacher.php on line 1040
+[21-Jun-2017 13:29:54 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ''i' (T_ENCAPSED_AND_WHITESPACE) in /home/alamaana/public_html/Schoooly/application/controllers/Teacher.php on line 1041
+[21-Jun-2017 13:35:05 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/Schoooly/application/controllers/Teacher.php on line 1043
+[21-Jun-2017 13:35:05 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/Schoooly/application/controllers/Teacher.php on line 1043
+[21-Jun-2017 13:40:35 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ''index.p' (T_ENCAPSED_AND_WHITESPACE) in /home/alamaana/public_html/Schoooly/application/controllers/Teacher.php on line 1042
+[22-Jun-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[22-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[24-Jun-2017 03:00:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[24-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[24-Jun-2017 09:52:38 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/views/backend/admin/add_employees.php on line 922
+[24-Jun-2017 09:52:45 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/alamaana/public_html/Schoooly/application/views/backend/admin/add_employees.php on line 922
+[25-Jun-2017 03:00:03 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[25-Jun-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[26-Jun-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[26-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[27-Jun-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[27-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[28-Jun-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[28-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[29-Jun-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[29-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[30-Jun-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[30-Jun-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[30-Jun-2017 09:04:25 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/alamaana/public_html/Schoooly/application/models/Attendance_model.php on line 482
+[30-Jun-2017 09:04:27 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/alamaana/public_html/Schoooly/application/models/Attendance_model.php on line 482
+[30-Jun-2017 09:05:36 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/alamaana/public_html/Schoooly/application/models/Attendance_model.php on line 482
+[30-Jun-2017 09:06:17 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/alamaana/public_html/Schoooly/application/models/Attendance_model.php on line 482
+[30-Jun-2017 09:06:22 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/alamaana/public_html/Schoooly/application/models/Attendance_model.php on line 482
+[01-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[01-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[02-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[02-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[03-Jul-2017 03:00:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[03-Jul-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[03-Jul-2017 09:49:31 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 4627
+[03-Jul-2017 11:32:00 Asia/Riyadh] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/alamaana/public_html/Schoooly/application/views/backend/admin/modal_exit_re_entry_add_hr.php on line 61
+[03-Jul-2017 11:58:04 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 6378
+[03-Jul-2017 12:13:01 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 6222
+[03-Jul-2017 12:13:03 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 6222
+[03-Jul-2017 12:13:05 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 6222
+[03-Jul-2017 12:13:27 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 6222
+[03-Jul-2017 12:13:30 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 6222
+[03-Jul-2017 12:13:53 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 6222
+[03-Jul-2017 12:13:59 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 6222
+[03-Jul-2017 15:38:44 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 485
+[03-Jul-2017 15:38:46 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 485
+[03-Jul-2017 15:38:47 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 485
+[03-Jul-2017 15:38:48 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 485
+[03-Jul-2017 15:38:55 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 485
+[04-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[04-Jul-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[04-Jul-2017 09:22:17 Asia/Riyadh] PHP Parse error:  syntax error, unexpected end of file in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 1706
+[04-Jul-2017 09:22:19 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ''inde' (T_ENCAPSED_AND_WHITESPACE) in /home/alamaana/public_html/Schoooly/application/controllers/Admin.php on line 5980
+[04-Jul-2017 09:28:07 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/alamaana/public_html/Schoooly/application/views/backend/admin/view_pending_from_hr.php on line 69
+[04-Jul-2017 10:14:38 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/alamaana/public_html/Schoooly/application/views/backend/admin/view_pending_from_hr.php on line 71
+[05-Jul-2017 03:00:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[05-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[06-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[06-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[07-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[07-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[08-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[08-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[09-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[09-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[10-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[10-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[11-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[11-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[11-Jul-2017 08:31:11 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/views/backend/admin/navigation.php on line 851
+[11-Jul-2017 08:31:38 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '}' in /home/alamaana/public_html/Schoooly/application/views/backend/admin/navigation.php on line 888
+[11-Jul-2017 08:39:49 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ';' in /home/alamaana/public_html/Schoooly/application/views/backend/admin/navigation.php on line 58
+[11-Jul-2017 08:41:41 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ')' in /home/alamaana/public_html/Schoooly/application/views/backend/admin/navigation.php on line 43
+[12-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[12-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[13-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[13-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[14-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[14-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[15-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[15-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[16-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[16-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[17-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[17-Jul-2017 04:30:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[18-Jul-2017 03:00:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[18-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[19-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[19-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[20-Jul-2017 03:00:02 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[20-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[20-Jul-2017 14:21:33 Asia/Riyadh] PHP Fatal error:  Cannot use object of type stdClass as array in /home/alamaana/public_html/Schoooly/application/models/Classroutine_model.php on line 64
+[21-Jul-2017 03:00:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
+[21-Jul-2017 04:30:01 Asia/Riyadh] PHP Notice:  Undefined index: SERVER_NAME in /home/alamaana/public_html/Schoooly/application/config/config.php on line 21
